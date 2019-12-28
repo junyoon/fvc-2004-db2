@@ -1,10 +1,16 @@
 {
   "fingerId": "61",
   "image": "images/61_6.png",
+  "editImage": "images/61_6.edit.2019-12-29T051403.737699.png",
   "normImage": "images/61_6.norm.png",
   "binImage": {
     "completed": false,
     "image": "images/61_6.bin.2019-12-23T174044.970800.png"
+  },
+  "dirImage": {
+    "completed": false,
+    "angleImage": "",
+    "normImage": ""
   },
   "imageSize": {
     "width": 328,
