@@ -8,9 +8,9 @@
     "image": "images/1_8.bin.2019-12-23T175947.660691.png"
   },
   "dirImage": {
-    "completed": false,
-    "angleImage": "",
-    "normImage": ""
+    "completed": true,
+    "angleImage": "images/1_8.dir_angle.2019-12-29T065649.315764.png",
+    "normImage": "images/1_8.dir_norm.2019-12-29T065649.315814.png"
   },
   "imageSize": {
     "width": 328,

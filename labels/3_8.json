@@ -1,7 +1,7 @@
 {
   "fingerId": "3",
   "image": "images/3_8.png",
-  "editImage": "images/3_8.edit.2019-12-29T051357.919739.png",
+  "editImage": "/Volumes/SSD1TB/fp-anno/fvc-2004-db2/images/3_8.edit.2019-12-29T083315.130459.png",
   "normImage": "images/3_8.norm.png",
   "binImage": {
     "completed": false,
@@ -9,8 +9,8 @@
   },
   "dirImage": {
     "completed": false,
-    "angleImage": "",
-    "normImage": ""
+    "angleImage": "images/3_8.dir_angle.2019-12-29T083031.640509.png",
+    "normImage": "images/3_8.dir_norm.2019-12-29T083031.640546.png"
   },
   "imageSize": {
     "width": 328,
