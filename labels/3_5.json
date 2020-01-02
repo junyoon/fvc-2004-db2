@@ -1,8 +1,7 @@
 {
   "fingerId": "3",
   "image": "images/3_5.png",
-  "editImage": "/Volumes/SSD1TB/fp-anno/fvc-2004-db2/images/3_5.edit.2019-12-29T074124.913606.png",
-  "normImage": "images/3_5.norm.png",
+  "editImage": "images/3_5.edit.2019-12-29T074124.913606.png",
   "binImage": {
     "completed": false,
     "image": "images/3_5.bin.2019-12-29T072519.805077.png"
