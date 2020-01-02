@@ -2,15 +2,14 @@
   "fingerId": "4",
   "image": "images/4_6.png",
   "editImage": "images/4_6.edit.2019-12-29T051357.992873.png",
-  "normImage": "images/4_6.norm.png",
   "binImage": {
     "completed": false,
     "image": "images/4_6.bin.2019-12-23T173737.644330.png"
   },
   "dirImage": {
-    "completed": false,
-    "angleImage": "",
-    "normImage": ""
+    "completed": true,
+    "angleImage": "images/4_6.dir_angle.2020-01-02T185741.887758.png",
+    "normImage": "images/4_6.dir_norm.2020-01-02T185741.887813.png"
   },
   "imageSize": {
     "width": 328,
