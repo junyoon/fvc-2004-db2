@@ -2,7 +2,6 @@
   "fingerId": "7",
   "image": "images/7_7.png",
   "editImage": "images/7_7.edit.2019-12-29T051358.307913.png",
-  "normImage": "images/7_7.norm.png",
   "binImage": {
     "completed": false,
     "image": "images/7_7.bin.2019-12-23T173750.475403.png"
@@ -17,9 +16,9 @@
     "height": 364
   },
   "global": {
-    "completed": false,
+    "completed": true,
     "fpClass": "left loop",
-    "rotation": 0.0
+    "rotation": -1.0456651258847955
   },
   "regions": {
     "completed": false,
