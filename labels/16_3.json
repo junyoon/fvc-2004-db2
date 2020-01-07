@@ -2,7 +2,6 @@
   "fingerId": "16",
   "image": "images/16_3.png",
   "editImage": "images/16_3.edit.2019-12-29T051359.163315.png",
-  "normImage": "images/16_3.norm.png",
   "binImage": {
     "completed": false,
     "image": "images/16_3.bin.2019-12-23T173820.694017.png"
@@ -17,7 +16,7 @@
     "height": 364
   },
   "global": {
-    "completed": false,
+    "completed": true,
     "fpClass": "left loop",
     "rotation": 0.0
   },
