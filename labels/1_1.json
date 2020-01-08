@@ -16,9 +16,9 @@
     "height": 364
   },
   "global": {
-    "completed": false,
+    "completed": true,
     "fpClass": "double loop",
-    "rotation": 0.0
+    "rotation": 1.2249460466810262
   },
   "regions": {
     "completed": true,
