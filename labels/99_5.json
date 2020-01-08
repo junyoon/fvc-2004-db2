@@ -1,8 +1,7 @@
 {
   "fingerId": "99",
   "image": "images/99_5.png",
-  "editImage": "images/99_5.edit.2019-12-29T051407.629030.png",
-  "normImage": "images/99_5.norm.png",
+  "editImage": "images/99_5.edit.png",
   "binImage": {
     "completed": false,
     "image": "images/99_5.bin.2019-12-23T174246.081369.png"
