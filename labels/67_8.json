@@ -2,7 +2,6 @@
   "fingerId": "67",
   "image": "images/67_8.png",
   "editImage": "images/67_8.edit.2019-12-29T051404.381330.png",
-  "normImage": "images/67_8.norm.png",
   "binImage": {
     "completed": false,
     "image": "images/67_8.bin.2019-12-23T174104.423535.png"
@@ -20,6 +19,15 @@
     "completed": false,
     "fpClass": "tent arch",
     "rotation": 0.0
+  },
+  "bbox": {
+    "center": {
+      "x": 177.5,
+      "y": 185.5
+    },
+    "width": 226.0,
+    "height": 356.0,
+    "degree": 0.0
   },
   "regions": {
     "completed": false,
@@ -68,8 +76,8 @@
             "y": 173.5
           },
           {
-            "x": 67.5,
-            "y": 183.5
+            "x": 64.5,
+            "y": 186.5
           },
           {
             "x": 73.5,
@@ -216,8 +224,8 @@
             "y": 255.5
           },
           {
-            "x": 288.5,
-            "y": 240.5
+            "x": 290.5,
+            "y": 249.5
           },
           {
             "x": 286.5,
@@ -284,12 +292,12 @@
             "y": 17.5
           },
           {
-            "x": 162.5,
-            "y": 9.5
+            "x": 163.5,
+            "y": 7.5
           },
           {
-            "x": 157.5,
-            "y": 8.5
+            "x": 159.5,
+            "y": 7.5
           }
         ]
       },

@@ -20,6 +20,15 @@
     "fpClass": "whorl",
     "rotation": 0.0
   },
+  "bbox": {
+    "center": {
+      "x": 179.0,
+      "y": 181.5
+    },
+    "width": 199.0,
+    "height": 362.0,
+    "degree": 0.0
+  },
   "regions": {
     "completed": true,
     "regions": [

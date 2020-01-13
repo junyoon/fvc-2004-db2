@@ -2,7 +2,6 @@
   "fingerId": "110",
   "image": "images/110_3.png",
   "editImage": "images/110_3.edit.2019-12-29T051408.742836.png",
-  "normImage": "images/110_3.norm.png",
   "binImage": {
     "completed": false,
     "image": "images/110_3.bin.2019-12-23T174320.017321.png"
@@ -20,6 +19,15 @@
     "completed": false,
     "fpClass": "right loop",
     "rotation": 0.0
+  },
+  "bbox": {
+    "center": {
+      "x": 148.5,
+      "y": 193.0
+    },
+    "width": 280.0,
+    "height": 341.0,
+    "degree": 0.0
   },
   "regions": {
     "completed": false,
@@ -96,8 +104,8 @@
             "y": 276.5
           },
           {
-            "x": 9.5,
-            "y": 313.5
+            "x": 8.5,
+            "y": 311.5
           },
           {
             "x": 33.5,
@@ -148,8 +156,8 @@
             "y": 278.5
           },
           {
-            "x": 287.5,
-            "y": 248.5
+            "x": 288.5,
+            "y": 241.5
           },
           {
             "x": 286.5,

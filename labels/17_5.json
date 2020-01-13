@@ -20,6 +20,15 @@
     "fpClass": "right loop",
     "rotation": -13.099048550608416
   },
+  "bbox": {
+    "center": {
+      "x": 135.6563012016196,
+      "y": 215.64239319368494
+    },
+    "width": 243.25500692119124,
+    "height": 342.34220956202074,
+    "degree": -13.099048550608416
+  },
   "regions": {
     "completed": false,
     "regions": [

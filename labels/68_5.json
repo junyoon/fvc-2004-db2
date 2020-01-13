@@ -2,7 +2,6 @@
   "fingerId": "68",
   "image": "images/68_5.png",
   "editImage": "images/68_5.edit.2019-12-29T051404.445794.png",
-  "normImage": "images/68_5.norm.png",
   "binImage": {
     "completed": false,
     "image": "images/68_5.bin.2019-12-23T174106.473459.png"
@@ -20,6 +19,15 @@
     "completed": false,
     "fpClass": "tent arch",
     "rotation": 0.0
+  },
+  "bbox": {
+    "center": {
+      "x": 149.5,
+      "y": 196.0
+    },
+    "width": 254.0,
+    "height": 335.0,
+    "degree": 0.0
   },
   "regions": {
     "completed": false,

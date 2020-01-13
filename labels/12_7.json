@@ -20,6 +20,15 @@
     "fpClass": "left pocket loop",
     "rotation": 3.0579346856844722
   },
+  "bbox": {
+    "center": {
+      "x": 149.6420216163162,
+      "y": 191.41994766754078
+    },
+    "width": 221.0287548150058,
+    "height": 343.3651350239861,
+    "degree": 3.0579346856844722
+  },
   "regions": {
     "completed": true,
     "regions": [

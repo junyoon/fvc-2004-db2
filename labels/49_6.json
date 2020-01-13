@@ -2,7 +2,6 @@
   "fingerId": "49",
   "image": "images/49_6.png",
   "editImage": "images/49_6.edit.2019-12-29T051402.521037.png",
-  "normImage": "images/49_6.norm.png",
   "binImage": {
     "completed": false,
     "image": "images/49_6.bin.2019-12-23T174007.672090.png"
@@ -20,6 +19,15 @@
     "completed": false,
     "fpClass": "arch",
     "rotation": 0.0
+  },
+  "bbox": {
+    "center": {
+      "x": 178.5,
+      "y": 166.5
+    },
+    "width": 214.0,
+    "height": 332.0,
+    "degree": 0.0
   },
   "regions": {
     "completed": false,

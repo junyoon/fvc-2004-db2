@@ -2,7 +2,6 @@
   "fingerId": "84",
   "image": "images/84_5.png",
   "editImage": "images/84_5.edit.2019-12-29T051406.079781.png",
-  "normImage": "images/84_5.norm.png",
   "binImage": {
     "completed": false,
     "image": "images/84_5.bin.2019-12-23T174157.705298.png"
@@ -20,6 +19,15 @@
     "completed": false,
     "fpClass": "whorl",
     "rotation": 0.0
+  },
+  "bbox": {
+    "center": {
+      "x": 140.5,
+      "y": 182.0
+    },
+    "width": 244.0,
+    "height": 363.0,
+    "degree": 0.0
   },
   "regions": {
     "completed": false,
