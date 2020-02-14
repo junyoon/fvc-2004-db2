@@ -18,16 +18,16 @@
   "global": {
     "completed": false,
     "fpClass": "unknown",
-    "rotation": -3.9999999999994174
+    "rotation": 0.0
   },
   "bbox": {
     "center": {
-      "x": 176.07127866145828,
-      "y": 182.8657965891911
+      "x": 176.0,
+      "y": 182.0
     },
-    "width": 275.71885388463403,
-    "height": 376.75801728756,
-    "degree": -3.9999999999994316
+    "width": 277.0,
+    "height": 363.0,
+    "degree": 0.0
   },
   "regions": {
     "completed": true,
@@ -271,7 +271,7 @@
         ]
       },
       {
-        "type": "foreground",
+        "type": "unrecoverable",
         "points": [
           {
             "x": 312.5,
