@@ -4,12 +4,16 @@
   "editImage": "images/110_8.edit.png",
   "binImage": {
     "completed": false,
-    "image": ""
+    "image": "images/110_8.bin.2020-04-05T080558.246870.png"
   },
   "dirImage": {
     "completed": false,
     "angleImage": "",
     "normImage": ""
+  },
+  "rdImage": {
+    "completed": false,
+    "image": ""
   },
   "imageSize": {
     "width": 328,
