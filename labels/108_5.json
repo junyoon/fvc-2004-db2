@@ -11,6 +11,10 @@
     "angleImage": "",
     "normImage": ""
   },
+  "rdImage": {
+    "completed": false,
+    "image": ""
+  },
   "imageSize": {
     "width": 328,
     "height": 364
@@ -18,16 +22,16 @@
   "global": {
     "completed": false,
     "fpClass": "left loop",
-    "rotation": 0.0
+    "rotation": 34.34821853899094
   },
   "bbox": {
     "center": {
-      "x": 159.0,
-      "y": 182.0
+      "x": 151.80964241150076,
+      "y": 164.78522092017312
     },
-    "width": 293.0,
-    "height": 363.0,
-    "degree": 0.0
+    "width": 268.1287125405891,
+    "height": 419.88051080664025,
+    "degree": 34.34821853899094
   },
   "regions": {
     "completed": false,
