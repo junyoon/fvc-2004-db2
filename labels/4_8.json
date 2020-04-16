@@ -1,15 +1,19 @@
 {
   "fingerId": "4",
   "image": "images/4_8.png",
-  "editImage": "images/4_8.edit.2020-01-03T000147.971319.png",
+  "editImage": "images/4_8.edit.2020-04-16T162620.707304.png",
   "binImage": {
-    "completed": false,
-    "image": "images/4_8.bin.2020-01-03T000338.623675.png"
+    "completed": true,
+    "image": "images/4_8.bin.2020-04-16T162621.805648.png"
   },
   "dirImage": {
     "completed": true,
-    "angleImage": "images/4_8.dir_angle.2020-01-03T000321.912777.png",
-    "normImage": "images/4_8.dir_norm.2020-01-03T000321.912824.png"
+    "angleImage": "images/4_8.dir_angle.2020-04-16T162623.713074.png",
+    "normImage": "images/4_8.dir_norm.2020-04-16T162623.713110.png"
+  },
+  "rdImage": {
+    "completed": false,
+    "image": ""
   },
   "imageSize": {
     "width": 328,
@@ -306,7 +310,7 @@
         ]
       },
       {
-        "type": "unrecoverable",
+        "type": "low quality",
         "points": [
           {
             "x": 138.5,
@@ -594,7 +598,7 @@
         ]
       },
       {
-        "type": "unrecoverable",
+        "type": "low quality",
         "points": [
           {
             "x": 260.175184482148,
@@ -675,44 +679,7 @@
         ]
       },
       {
-        "type": "unrecoverable",
-        "points": [
-          {
-            "x": 257.5,
-            "y": 209.5
-          },
-          {
-            "x": 266.5,
-            "y": 222.5
-          },
-          {
-            "x": 261.5,
-            "y": 231.5
-          },
-          {
-            "x": 256.5,
-            "y": 232.5
-          },
-          {
-            "x": 250.5,
-            "y": 221.5
-          },
-          {
-            "x": 251.69560146939762,
-            "y": 220.15031307480638
-          },
-          {
-            "x": 246.5,
-            "y": 216.5
-          },
-          {
-            "x": 254.85224928108693,
-            "y": 209.93060715104554
-          }
-        ]
-      },
-      {
-        "type": "unrecoverable",
+        "type": "low quality",
         "points": [
           {
             "x": 218.5,

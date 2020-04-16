@@ -1,15 +1,15 @@
 {
   "fingerId": "5",
   "image": "images/5_5.png",
-  "editImage": "images/5_5.edit.2020-04-06T022645.857224.png",
+  "editImage": "images/5_5.edit.2020-04-16T172347.959530.png",
   "binImage": {
     "completed": true,
-    "image": "images/5_5.bin.2020-04-06T022646.823867.png"
+    "image": "images/5_5.bin.2020-04-16T172349.484514.png"
   },
   "dirImage": {
     "completed": true,
-    "angleImage": "images/5_5.dir_angle.2020-04-06T022650.011324.png",
-    "normImage": "images/5_5.dir_norm.2020-04-06T022650.011360.png"
+    "angleImage": "images/5_5.dir_angle.2020-04-16T172422.439867.png",
+    "normImage": "images/5_5.dir_norm.2020-04-16T172422.439907.png"
   },
   "rdImage": {
     "completed": false,
@@ -26,11 +26,11 @@
   },
   "bbox": {
     "center": {
-      "x": 213.36441539840186,
-      "y": 179.3380518831657
+      "x": 212.54826881553353,
+      "y": 184.13496285083124
     },
     "width": 247.01297070564308,
-    "height": 377.81384913368635,
+    "height": 387.54553965002276,
     "degree": 9.655842988381664
   },
   "regions": {
@@ -124,23 +124,11 @@
             "y": 348.5
           },
           {
-            "x": 122.5,
-            "y": 355.5
+            "x": 111.5,
+            "y": 363.5
           },
           {
-            "x": 138.5,
-            "y": 356.5
-          },
-          {
-            "x": 159.5,
-            "y": 358.5
-          },
-          {
-            "x": 165.5,
-            "y": 361.5
-          },
-          {
-            "x": 210.5,
+            "x": 121.5,
             "y": 363.5
           },
           {
