@@ -1,15 +1,19 @@
 {
   "fingerId": "6",
   "image": "images/6_1.png",
-  "editImage": "images/6_1.edit.2020-01-03T203010.922456.png",
+  "editImage": "images/6_1.edit.2020-04-16T200124.977824.png",
   "binImage": {
-    "completed": false,
-    "image": "images/6_1.bin.2019-12-23T173743.345403.png"
+    "completed": true,
+    "image": "images/6_1.bin.2020-04-16T200125.899420.png"
   },
   "dirImage": {
     "completed": true,
-    "angleImage": "images/6_1.dir_angle.2020-01-03T203012.298671.png",
-    "normImage": "images/6_1.dir_norm.2020-01-03T203012.298708.png"
+    "angleImage": "images/6_1.dir_angle.2020-04-16T200127.569750.png",
+    "normImage": "images/6_1.dir_norm.2020-04-16T200127.569786.png"
+  },
+  "rdImage": {
+    "completed": false,
+    "image": ""
   },
   "imageSize": {
     "width": 328,
@@ -84,8 +88,12 @@
             "y": 199.5
           },
           {
-            "x": 33.5,
-            "y": 213.5
+            "x": 37.5,
+            "y": 210.5
+          },
+          {
+            "x": 40.5,
+            "y": 221.5
           },
           {
             "x": 39.5,
@@ -242,7 +250,7 @@
         ]
       },
       {
-        "type": "scar",
+        "type": "low quality",
         "points": [
           {
             "x": 71.5,
