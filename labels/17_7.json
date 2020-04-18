@@ -1,15 +1,15 @@
 {
   "fingerId": "17",
   "image": "images/17_7.png",
-  "editImage": "images/17_7.edit.2020-03-22T112131.621262.png",
+  "editImage": "images/17_7.edit.2020-04-19T004652.956769.png",
   "binImage": {
     "completed": true,
-    "image": "images/17_7.bin.2020-03-22T112148.948354.png"
+    "image": "images/17_7.bin.2020-04-19T004654.538047.png"
   },
   "dirImage": {
     "completed": true,
-    "angleImage": "images/17_7.dir_angle.2020-03-22T112204.726802.png",
-    "normImage": "images/17_7.dir_norm.2020-03-22T112204.726841.png"
+    "angleImage": "images/17_7.dir_angle.2020-04-19T004658.365647.png",
+    "normImage": "images/17_7.dir_norm.2020-04-19T004658.365688.png"
   },
   "rdImage": {
     "completed": false,
@@ -238,76 +238,6 @@
           {
             "x": 94.5,
             "y": 0.5
-          }
-        ]
-      },
-      {
-        "type": "unrecoverable",
-        "points": [
-          {
-            "x": 219.5,
-            "y": 0.5
-          },
-          {
-            "x": 228.29627247793832,
-            "y": 8.097789873988155
-          },
-          {
-            "x": 227.5,
-            "y": 18.5
-          },
-          {
-            "x": 205.5,
-            "y": 13.5
-          },
-          {
-            "x": 184.5,
-            "y": 14.5
-          },
-          {
-            "x": 185.5,
-            "y": 0.5
-          }
-        ]
-      },
-      {
-        "type": "unrecoverable",
-        "points": [
-          {
-            "x": 186.5,
-            "y": 175.5
-          },
-          {
-            "x": 189.5,
-            "y": 179.5
-          },
-          {
-            "x": 190.5,
-            "y": 183.5
-          },
-          {
-            "x": 189.5,
-            "y": 187.5
-          },
-          {
-            "x": 184.5,
-            "y": 192.5
-          },
-          {
-            "x": 177.5,
-            "y": 191.5
-          },
-          {
-            "x": 176.5,
-            "y": 184.5
-          },
-          {
-            "x": 177.5,
-            "y": 178.5
-          },
-          {
-            "x": 179.5,
-            "y": 173.5
           }
         ]
       }
