@@ -1,15 +1,15 @@
 {
   "fingerId": "19",
   "image": "images/19_7.png",
-  "editImage": "images/19_7.edit.2020-03-22T114434.419650.png",
+  "editImage": "images/19_7.edit.2020-04-19T043906.601074.png",
   "binImage": {
     "completed": true,
-    "image": "images/19_7.bin.2020-03-22T114441.736461.png"
+    "image": "images/19_7.bin.2020-04-19T043907.669074.png"
   },
   "dirImage": {
     "completed": true,
-    "angleImage": "images/19_7.dir_angle.2020-03-22T114443.772191.png",
-    "normImage": "images/19_7.dir_norm.2020-03-22T114443.772226.png"
+    "angleImage": "images/19_7.dir_angle.2020-04-19T043908.948949.png",
+    "normImage": "images/19_7.dir_norm.2020-04-19T043908.948986.png"
   },
   "rdImage": {
     "completed": false,
@@ -206,51 +206,6 @@
           {
             "x": 178.5,
             "y": 21.5
-          }
-        ]
-      },
-      {
-        "type": "unrecoverable",
-        "points": [
-          {
-            "x": 121.5,
-            "y": 363.5
-          },
-          {
-            "x": 131.5,
-            "y": 359.5
-          },
-          {
-            "x": 156.5,
-            "y": 353.5
-          },
-          {
-            "x": 165.5,
-            "y": 350.5
-          },
-          {
-            "x": 175.5,
-            "y": 349.5
-          },
-          {
-            "x": 184.5,
-            "y": 352.5
-          },
-          {
-            "x": 194.5,
-            "y": 354.5
-          },
-          {
-            "x": 206.5,
-            "y": 358.5
-          },
-          {
-            "x": 220.5,
-            "y": 360.5
-          },
-          {
-            "x": 222.5,
-            "y": 363.5
           }
         ]
       }
