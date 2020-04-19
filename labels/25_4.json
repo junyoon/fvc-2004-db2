@@ -1,15 +1,19 @@
 {
   "fingerId": "25",
   "image": "images/25_4.png",
-  "editImage": "images/25_4.edit.2020-01-09T035349.039054.png",
+  "editImage": "images/25_4.edit.2020-04-19T164026.017884.png",
   "binImage": {
-    "completed": false,
-    "image": "images/25_4.bin.2020-01-09T035404.299536.png"
+    "completed": true,
+    "image": "images/25_4.bin.2020-04-19T164040.624693.png"
   },
   "dirImage": {
     "completed": true,
-    "angleImage": "images/25_4.dir_angle.2020-01-09T035351.058599.png",
-    "normImage": "images/25_4.dir_norm.2020-01-09T035351.058640.png"
+    "angleImage": "images/25_4.dir_angle.2020-04-19T164041.123443.png",
+    "normImage": "images/25_4.dir_norm.2020-04-19T164041.123488.png"
+  },
+  "rdImage": {
+    "completed": false,
+    "image": ""
   },
   "imageSize": {
     "width": 328,
