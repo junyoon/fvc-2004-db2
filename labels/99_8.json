@@ -8,8 +8,12 @@
   },
   "dirImage": {
     "completed": false,
-    "angleImage": "",
-    "normImage": ""
+    "angleImage": "images/99_8.dir_angle.2020-04-25T042358.862841.png",
+    "normImage": "images/99_8.dir_norm.2020-04-25T042358.862907.png"
+  },
+  "rdImage": {
+    "completed": false,
+    "image": ""
   },
   "imageSize": {
     "width": 328,

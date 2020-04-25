@@ -4,12 +4,16 @@
   "editImage": "images/96_6.edit.2020-01-16T234702.557569.png",
   "binImage": {
     "completed": false,
-    "image": "images/96_6.bin.2020-01-16T234709.676294.png"
+    "image": "images/96_6.bin.2020-04-23T053901.215206.png"
   },
   "dirImage": {
     "completed": false,
     "angleImage": "images/96_6.dir_angle.2020-01-16T234706.024583.png",
     "normImage": "images/96_6.dir_norm.2020-01-16T234706.024620.png"
+  },
+  "rdImage": {
+    "completed": false,
+    "image": ""
   },
   "imageSize": {
     "width": 328,
