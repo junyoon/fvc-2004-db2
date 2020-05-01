@@ -1,15 +1,19 @@
 {
   "fingerId": "54",
   "image": "images/54_6.png",
-  "editImage": "images/54_6.edit.2019-12-29T051403.030418.png",
+  "editImage": "images/54_6.edit.2020-04-30T110955.871873.png",
   "binImage": {
-    "completed": false,
-    "image": "images/54_6.bin.2019-12-23T174023.276022.png"
+    "completed": true,
+    "image": "images/54_6.bin.2020-04-30T110956.778042.png"
   },
   "dirImage": {
+    "completed": true,
+    "angleImage": "images/54_6.dir_angle.2020-04-30T111024.665590.png",
+    "normImage": "images/54_6.dir_norm.2020-04-30T111024.665628.png"
+  },
+  "rdImage": {
     "completed": false,
-    "angleImage": "",
-    "normImage": ""
+    "image": ""
   },
   "imageSize": {
     "width": 328,
@@ -30,7 +34,7 @@
     "degree": 0.0
   },
   "regions": {
-    "completed": false,
+    "completed": true,
     "regions": [
       {
         "type": "foreground",
@@ -96,12 +100,12 @@
             "y": 306.5
           },
           {
-            "x": 174.5,
-            "y": 314.5
+            "x": 170.5,
+            "y": 316.5
           },
           {
-            "x": 190.5,
-            "y": 317.5
+            "x": 176.5,
+            "y": 323.5
           },
           {
             "x": 203.5,
@@ -188,7 +192,7 @@
             "y": 2.5
           },
           {
-            "x": 228.5,
+            "x": 226.5,
             "y": 0.5
           }
         ]
