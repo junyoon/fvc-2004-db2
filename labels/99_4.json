@@ -11,6 +11,10 @@
     "angleImage": "images/99_4.dir_angle.2020-01-08T040142.431623.png",
     "normImage": "images/99_4.dir_norm.2020-01-08T040142.431675.png"
   },
+  "rdImage": {
+    "completed": false,
+    "image": ""
+  },
   "imageSize": {
     "width": 328,
     "height": 364
@@ -18,7 +22,8 @@
   "global": {
     "completed": false,
     "fpClass": "tent arch",
-    "rotation": 0.0
+    "rotation": 0.0,
+    "fpQuality": "very low"
   },
   "bbox": {
     "center": {

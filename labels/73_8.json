@@ -11,6 +11,10 @@
     "angleImage": "",
     "normImage": ""
   },
+  "rdImage": {
+    "completed": false,
+    "image": ""
+  },
   "imageSize": {
     "width": 328,
     "height": 364
@@ -18,7 +22,8 @@
   "global": {
     "completed": false,
     "fpClass": "unknown",
-    "rotation": -4.799999999999429
+    "rotation": -4.799999999999429,
+    "fpQuality": "medium"
   },
   "bbox": {
     "center": {

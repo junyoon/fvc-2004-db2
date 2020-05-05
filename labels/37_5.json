@@ -22,7 +22,8 @@
   "global": {
     "completed": false,
     "fpClass": "unknown",
-    "rotation": 21.39828064452621
+    "rotation": 21.39828064452621,
+    "fpQuality": "high"
   },
   "bbox": {
     "center": {

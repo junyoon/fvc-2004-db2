@@ -4,12 +4,16 @@
   "editImage": "images/95_2.edit.png",
   "binImage": {
     "completed": false,
-    "image": ""
+    "image": "images/95_2.bin.2020-05-06T034337.909549.png"
   },
   "dirImage": {
     "completed": false,
     "angleImage": "",
     "normImage": ""
+  },
+  "rdImage": {
+    "completed": false,
+    "image": ""
   },
   "imageSize": {
     "width": 328,
@@ -18,7 +22,8 @@
   "global": {
     "completed": false,
     "fpClass": "unknown",
-    "rotation": 12.300000000000814
+    "rotation": 12.300000000000814,
+    "fpQuality": "low"
   },
   "bbox": {
     "center": {

@@ -20,9 +20,10 @@
     "height": 364
   },
   "global": {
-    "completed": true,
+    "completed": false,
     "fpClass": "left loop",
-    "rotation": -18.154294977405243
+    "rotation": -18.154294977405243,
+    "fpQuality": "high"
   },
   "bbox": {
     "center": {

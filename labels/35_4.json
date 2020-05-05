@@ -11,6 +11,10 @@
     "angleImage": "images/35_4.dir_angle.2020-01-16T130800.554051.png",
     "normImage": "images/35_4.dir_norm.2020-01-16T130800.554106.png"
   },
+  "rdImage": {
+    "completed": false,
+    "image": ""
+  },
   "imageSize": {
     "width": 328,
     "height": 364
@@ -18,7 +22,8 @@
   "global": {
     "completed": false,
     "fpClass": "unknown",
-    "rotation": -6.29999999999945
+    "rotation": -6.29999999999945,
+    "fpQuality": "low"
   },
   "bbox": {
     "center": {
