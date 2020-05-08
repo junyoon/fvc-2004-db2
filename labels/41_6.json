@@ -4,7 +4,7 @@
   "editImage": "images/41_6.edit.png",
   "binImage": {
     "completed": false,
-    "image": ""
+    "image": "images/41_6.bin.2020-05-08T181014.474495.png"
   },
   "dirImage": {
     "completed": false,
@@ -23,7 +23,7 @@
     "completed": false,
     "fpClass": "unknown",
     "rotation": 0.600000000000648,
-    "fpQuality": "low"
+    "fpQuality": "very low"
   },
   "bbox": {
     "center": {

@@ -4,7 +4,7 @@
   "editImage": "images/98_8.edit.png",
   "binImage": {
     "completed": false,
-    "image": "images/98_8.bin.2020-05-06T035559.050146.png"
+    "image": "images/98_8.bin.2020-05-08T191728.549039.png"
   },
   "dirImage": {
     "completed": false,
@@ -23,7 +23,7 @@
     "completed": false,
     "fpClass": "unknown",
     "rotation": 0.0,
-    "fpQuality": "low"
+    "fpQuality": "very low"
   },
   "bbox": {
     "center": {

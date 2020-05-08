@@ -23,7 +23,7 @@
     "completed": false,
     "fpClass": "double loop",
     "rotation": 0.0,
-    "fpQuality": "high"
+    "fpQuality": null
   },
   "bbox": {
     "center": {

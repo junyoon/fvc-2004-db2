@@ -23,7 +23,7 @@
     "completed": false,
     "fpClass": "unknown",
     "rotation": -6.29999999999945,
-    "fpQuality": "low"
+    "fpQuality": "very low"
   },
   "bbox": {
     "center": {
@@ -41,12 +41,12 @@
         "type": "foreground",
         "points": [
           {
-            "x": 290.5,
-            "y": 207.5
+            "x": 282.5,
+            "y": 195.5
           },
           {
-            "x": 288.5,
-            "y": 216.5
+            "x": 282.5,
+            "y": 207.5
           },
           {
             "x": 283.5,

@@ -23,7 +23,7 @@
     "completed": false,
     "fpClass": "unknown",
     "rotation": 5.800000000000722,
-    "fpQuality": "high"
+    "fpQuality": null
   },
   "bbox": {
     "center": {

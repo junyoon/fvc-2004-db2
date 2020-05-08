@@ -23,7 +23,7 @@
     "completed": false,
     "fpClass": "unknown",
     "rotation": -6.099999999999447,
-    "fpQuality": "high"
+    "fpQuality": "medium"
   },
   "bbox": {
     "center": {
@@ -113,11 +113,11 @@
             "y": 338.5
           },
           {
-            "x": 133.5,
-            "y": 330.5
+            "x": 131.5,
+            "y": 323.5
           },
           {
-            "x": 124.5,
+            "x": 123.5,
             "y": 326.5
           },
           {
