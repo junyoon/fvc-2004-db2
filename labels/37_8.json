@@ -20,19 +20,19 @@
     "height": 364
   },
   "global": {
-    "completed": false,
-    "fpClass": "unknown",
-    "rotation": -3.4999999999994102,
+    "completed": true,
+    "fpClass": "right loop",
+    "rotation": -0.9999999999993747,
     "fpQuality": "low"
   },
   "bbox": {
     "center": {
-      "x": 159.62788897276226,
-      "y": 183.76589395970123
+      "x": 160.79897914827254,
+      "y": 182.4835231175445
     },
-    "width": 198.7448700489051,
-    "height": 366.96262083178624,
-    "degree": -3.4999999999994316
+    "width": 198.00980898207183,
+    "height": 364.2710962310028,
+    "degree": -0.9999999999993747
   },
   "regions": {
     "completed": true,
