@@ -21,7 +21,7 @@
   },
   "global": {
     "completed": false,
-    "fpClass": "whorl",
+    "fpClass": "double loop",
     "rotation": 0.0,
     "fpQuality": "very high"
   },
