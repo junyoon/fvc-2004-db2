@@ -7,9 +7,9 @@
     "image": "images/84_1.bin.2019-12-23T174156.056567.png"
   },
   "dirImage": {
-    "completed": false,
-    "angleImage": "",
-    "normImage": ""
+    "completed": true,
+    "angleImage": "images/84_1.dir_angle.2020-07-10T231625.986934.png",
+    "normImage": "images/84_1.dir_norm.2020-07-10T231625.986995.png"
   },
   "rdImage": {
     "completed": false,
@@ -35,7 +35,7 @@
     "degree": 0.0
   },
   "regions": {
-    "completed": false,
+    "completed": true,
     "regions": [
       {
         "type": "foreground",
@@ -49,20 +49,16 @@
             "y": 22.5
           },
           {
-            "x": 42.5,
-            "y": 38.5
-          },
-          {
             "x": 39.5,
             "y": 59.5
           },
           {
             "x": 42.5,
-            "y": 80.5
+            "y": 92.5
           },
           {
-            "x": 43.5,
-            "y": 102.5
+            "x": 46.5,
+            "y": 126.5
           },
           {
             "x": 59.5,
@@ -125,23 +121,19 @@
             "y": 193.5
           },
           {
-            "x": 301.5,
-            "y": 133.5
+            "x": 302.5,
+            "y": 128.5
           },
           {
-            "x": 301.5,
-            "y": 120.5
+            "x": 295.5,
+            "y": 69.5
           },
           {
-            "x": 299.5,
-            "y": 112.5
+            "x": 289.5,
+            "y": 13.5
           },
           {
-            "x": 294.5,
-            "y": 52.5
-          },
-          {
-            "x": 287.5,
+            "x": 286.5,
             "y": 0.5
           }
         ]

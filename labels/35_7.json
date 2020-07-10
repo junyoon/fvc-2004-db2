@@ -7,9 +7,9 @@
     "image": "images/35_7.bin.2019-12-23T173922.743762.png"
   },
   "dirImage": {
-    "completed": false,
-    "angleImage": "",
-    "normImage": ""
+    "completed": true,
+    "angleImage": "images/35_7.dir_angle.2020-07-10T224312.868882.png",
+    "normImage": "images/35_7.dir_norm.2020-07-10T224312.868922.png"
   },
   "rdImage": {
     "completed": false,
@@ -35,7 +35,7 @@
     "degree": 6.394884621840902e-13
   },
   "regions": {
-    "completed": false,
+    "completed": true,
     "regions": [
       {
         "type": "foreground",

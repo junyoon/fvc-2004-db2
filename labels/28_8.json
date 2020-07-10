@@ -7,9 +7,9 @@
     "image": "images/28_8.bin.2020-05-20T131438.082617.png"
   },
   "dirImage": {
-    "completed": false,
-    "angleImage": "images/28_8.dir_angle.2020-01-09T184527.835904.png",
-    "normImage": "images/28_8.dir_norm.2020-01-09T184527.835939.png"
+    "completed": true,
+    "angleImage": "images/28_8.dir_angle.2020-07-10T222344.171594.png",
+    "normImage": "images/28_8.dir_norm.2020-07-10T222344.171632.png"
   },
   "rdImage": {
     "completed": false,
@@ -35,7 +35,7 @@
     "degree": 1.7057879758789056
   },
   "regions": {
-    "completed": false,
+    "completed": true,
     "regions": [
       {
         "type": "foreground",

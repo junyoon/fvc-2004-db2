@@ -7,9 +7,9 @@
     "image": "images/60_5.bin.2020-01-16T190206.264527.png"
   },
   "dirImage": {
-    "completed": false,
-    "angleImage": "",
-    "normImage": ""
+    "completed": true,
+    "angleImage": "images/60_5.dir_angle.2020-07-10T230321.332189.png",
+    "normImage": "images/60_5.dir_norm.2020-07-10T230321.332231.png"
   },
   "rdImage": {
     "completed": false,

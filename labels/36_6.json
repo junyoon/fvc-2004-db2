@@ -7,9 +7,9 @@
     "image": "images/36_6.bin.2020-01-16T133114.164466.png"
   },
   "dirImage": {
-    "completed": false,
-    "angleImage": "images/36_6.dir_angle.2020-01-16T133110.481103.png",
-    "normImage": "images/36_6.dir_norm.2020-01-16T133110.481162.png"
+    "completed": true,
+    "angleImage": "images/36_6.dir_angle.2020-07-10T224650.221845.png",
+    "normImage": "images/36_6.dir_norm.2020-07-10T224650.221884.png"
   },
   "rdImage": {
     "completed": false,
@@ -27,15 +27,15 @@
   },
   "bbox": {
     "center": {
-      "x": 139.78715925124197,
-      "y": 172.04762428871504
+      "x": 139.67226477694612,
+      "y": 172.00443829499838
     },
-    "width": 200.61466268727696,
+    "width": 200.36917728830576,
     "height": 367.39860751843423,
     "degree": 20.600000000000932
   },
   "regions": {
-    "completed": false,
+    "completed": true,
     "regions": [
       {
         "type": "foreground",
@@ -53,8 +53,8 @@
             "y": 188.5
           },
           {
-            "x": 235.5,
-            "y": 202.5
+            "x": 233.5,
+            "y": 201.5
           },
           {
             "x": 223.5,

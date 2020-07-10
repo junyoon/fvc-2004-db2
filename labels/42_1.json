@@ -7,9 +7,9 @@
     "image": "images/42_1.bin.2020-05-08T181034.339880.png"
   },
   "dirImage": {
-    "completed": false,
-    "angleImage": "",
-    "normImage": ""
+    "completed": true,
+    "angleImage": "images/42_1.dir_angle.2020-07-10T225313.688805.png",
+    "normImage": "images/42_1.dir_norm.2020-07-10T225313.688862.png"
   },
   "rdImage": {
     "completed": false,
@@ -27,15 +27,15 @@
   },
   "bbox": {
     "center": {
-      "x": 166.5,
+      "x": 166.0,
       "y": 134.0
     },
-    "width": 244.0,
+    "width": 245.0,
     "height": 267.0,
     "degree": 0.0
   },
   "regions": {
-    "completed": false,
+    "completed": true,
     "regions": [
       {
         "type": "foreground",
@@ -45,8 +45,12 @@
             "y": 0.5
           },
           {
-            "x": 44.5,
-            "y": 16.5
+            "x": 43.5,
+            "y": 12.5
+          },
+          {
+            "x": 43.5,
+            "y": 27.5
           },
           {
             "x": 44.5,
@@ -129,12 +133,16 @@
             "y": 206.5
           },
           {
+            "x": 269.5,
+            "y": 191.5
+          },
+          {
             "x": 271.5,
             "y": 178.5
           },
           {
-            "x": 271.5,
-            "y": 173.5
+            "x": 273.5,
+            "y": 168.5
           },
           {
             "x": 285.5,
@@ -154,10 +162,10 @@
           },
           {
             "x": 286.5,
-            "y": 11.5
+            "y": 7.5
           },
           {
-            "x": 283.5,
+            "x": 280.5,
             "y": 0.5
           }
         ]

@@ -4,12 +4,12 @@
   "editImage": "images/23_8.edit.png",
   "binImage": {
     "completed": false,
-    "image": "images/23_8.bin.2020-04-28T005637.596621.png"
+    "image": "images/23_8.bin.2020-07-10T222130.491310.png"
   },
   "dirImage": {
-    "completed": false,
-    "angleImage": "images/23_8.dir_angle.2020-01-08T234122.521870.png",
-    "normImage": "images/23_8.dir_norm.2020-01-08T234122.521931.png"
+    "completed": true,
+    "angleImage": "images/23_8.dir_angle.2020-07-10T222038.973677.png",
+    "normImage": "images/23_8.dir_norm.2020-07-10T222038.973714.png"
   },
   "rdImage": {
     "completed": false,
@@ -35,7 +35,7 @@
     "degree": 0.0
   },
   "regions": {
-    "completed": false,
+    "completed": true,
     "regions": [
       {
         "type": "foreground",
@@ -291,22 +291,6 @@
             "y": 30.5
           },
           {
-            "x": 141.5,
-            "y": 34.5
-          },
-          {
-            "x": 140.5,
-            "y": 42.5
-          },
-          {
-            "x": 152.5,
-            "y": 50.5
-          },
-          {
-            "x": 164.5,
-            "y": 51.5
-          },
-          {
             "x": 185.5,
             "y": 42.5
           },
@@ -327,12 +311,8 @@
             "y": 88.39744567871092
           },
           {
-            "x": 218.3279418945313,
-            "y": 94.19973754882811
-          },
-          {
-            "x": 231.8646087646485,
-            "y": 93.03958129882811
+            "x": 240.5,
+            "y": 90.5
           },
           {
             "x": 238.82252502441412,

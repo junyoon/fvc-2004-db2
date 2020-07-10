@@ -7,9 +7,9 @@
     "image": ""
   },
   "dirImage": {
-    "completed": false,
-    "angleImage": "",
-    "normImage": ""
+    "completed": true,
+    "angleImage": "images/59_4.dir_angle.2020-07-10T230251.391386.png",
+    "normImage": "images/59_4.dir_norm.2020-07-10T230251.391425.png"
   },
   "rdImage": {
     "completed": false,
@@ -21,7 +21,7 @@
   },
   "global": {
     "completed": false,
-    "fpClass": "unknown",
+    "fpClass": "whorl",
     "rotation": 6.200000000000728,
     "fpQuality": "low"
   },

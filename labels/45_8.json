@@ -8,8 +8,8 @@
   },
   "dirImage": {
     "completed": true,
-    "angleImage": "images/45_8.dir_angle.2020-04-19T182900.472050.png",
-    "normImage": "images/45_8.dir_norm.2020-04-19T182900.472088.png"
+    "angleImage": "images/45_8.dir_angle.2020-07-10T225504.036278.png",
+    "normImage": "images/45_8.dir_norm.2020-07-10T225504.036316.png"
   },
   "rdImage": {
     "completed": false,
@@ -21,7 +21,7 @@
   },
   "global": {
     "completed": false,
-    "fpClass": "unknown",
+    "fpClass": "right loop",
     "rotation": 1.6000000000006622,
     "fpQuality": "very low"
   },

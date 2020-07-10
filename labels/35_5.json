@@ -7,9 +7,9 @@
     "image": "images/35_5.bin.2020-05-08T180331.800946.png"
   },
   "dirImage": {
-    "completed": false,
-    "angleImage": "",
-    "normImage": ""
+    "completed": true,
+    "angleImage": "images/35_5.dir_angle.2020-07-10T224258.677065.png",
+    "normImage": "images/35_5.dir_norm.2020-07-10T224258.677105.png"
   },
   "rdImage": {
     "completed": false,
@@ -35,7 +35,7 @@
     "degree": 0.0
   },
   "regions": {
-    "completed": false,
+    "completed": true,
     "regions": [
       {
         "type": "foreground",
@@ -191,6 +191,39 @@
           {
             "x": 245.5,
             "y": 8.5
+          }
+        ]
+      },
+      {
+        "type": "unrecoverable",
+        "points": [
+          {
+            "x": 123.5,
+            "y": 281.5
+          },
+          {
+            "x": 139.45557329175068,
+            "y": 262.8360144191069
+          },
+          {
+            "x": 151.2793860763514,
+            "y": 270.55830369052916
+          },
+          {
+            "x": 151.03806453661946,
+            "y": 279.48720066061105
+          },
+          {
+            "x": 135.11084291431115,
+            "y": 290.1053484088166
+          },
+          {
+            "x": 133.18121325872016,
+            "y": 302.4127469351458
+          },
+          {
+            "x": 112.5,
+            "y": 296.5
           }
         ]
       }

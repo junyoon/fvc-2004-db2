@@ -4,12 +4,12 @@
   "editImage": "images/81_1.edit.2019-12-29T051405.719841.png",
   "binImage": {
     "completed": false,
-    "image": "images/81_1.bin.2019-12-23T174146.492720.png"
+    "image": "images/81_1.bin.2020-07-10T231412.628713.png"
   },
   "dirImage": {
-    "completed": false,
-    "angleImage": "",
-    "normImage": ""
+    "completed": true,
+    "angleImage": "images/81_1.dir_angle.2020-07-10T231419.276021.png",
+    "normImage": "images/81_1.dir_norm.2020-07-10T231419.276062.png"
   },
   "rdImage": {
     "completed": false,
@@ -27,15 +27,15 @@
   },
   "bbox": {
     "center": {
-      "x": 167.0,
+      "x": 166.5,
       "y": 137.0
     },
-    "width": 271.0,
+    "width": 272.0,
     "height": 273.0,
     "degree": 0.0
   },
   "regions": {
-    "completed": false,
+    "completed": true,
     "regions": [
       {
         "type": "foreground",
@@ -45,20 +45,20 @@
             "y": 0.5
           },
           {
-            "x": 40.5,
-            "y": 16.5
+            "x": 39.5,
+            "y": 14.5
           },
           {
             "x": 35.5,
             "y": 35.5
           },
           {
-            "x": 35.5,
-            "y": 46.5
+            "x": 31.5,
+            "y": 60.5
           },
           {
-            "x": 31.5,
-            "y": 75.5
+            "x": 30.5,
+            "y": 93.5
           },
           {
             "x": 31.5,
@@ -142,15 +142,11 @@
           },
           {
             "x": 299.5,
-            "y": 119.5
-          },
-          {
-            "x": 299.5,
             "y": 102.5
           },
           {
-            "x": 292.5,
-            "y": 50.5
+            "x": 293.5,
+            "y": 48.5
           },
           {
             "x": 288.5,

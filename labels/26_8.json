@@ -8,8 +8,8 @@
   },
   "dirImage": {
     "completed": true,
-    "angleImage": "images/26_8.dir_angle.2020-04-25T083422.376937.png",
-    "normImage": "images/26_8.dir_norm.2020-04-25T083422.376976.png"
+    "angleImage": "images/26_8.dir_angle.2020-07-10T222251.171016.png",
+    "normImage": "images/26_8.dir_norm.2020-07-10T222251.171057.png"
   },
   "rdImage": {
     "completed": false,
@@ -179,35 +179,6 @@
           {
             "x": 275.5,
             "y": 0.5
-          }
-        ]
-      },
-      {
-        "type": "unrecoverable",
-        "points": [
-          {
-            "x": 281.5,
-            "y": 135.5
-          },
-          {
-            "x": 292.5,
-            "y": 126.5
-          },
-          {
-            "x": 298.5,
-            "y": 137.5
-          },
-          {
-            "x": 295.5,
-            "y": 149.5
-          },
-          {
-            "x": 288.5,
-            "y": 157.5
-          },
-          {
-            "x": 282.5,
-            "y": 147.5
           }
         ]
       }

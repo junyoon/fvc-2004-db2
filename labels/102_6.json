@@ -21,7 +21,7 @@
   },
   "global": {
     "completed": false,
-    "fpClass": "right loop",
+    "fpClass": "unknown",
     "rotation": 0.0,
     "fpQuality": "high"
   },
