@@ -1,15 +1,15 @@
 {
   "fingerId": "107",
   "image": "images/107_2.png",
-  "editImage": "images/107_2.edit.2019-12-29T051408.418504.png",
+  "editImage": "images/107_2.edit.2020-07-20T230413.936788.png",
   "binImage": {
     "completed": false,
     "image": "images/107_2.bin.2020-04-23T011956.848775.png"
   },
   "dirImage": {
     "completed": true,
-    "angleImage": "images/107_2.dir_angle.2020-07-10T232844.876823.png",
-    "normImage": "images/107_2.dir_norm.2020-07-10T232844.876858.png"
+    "angleImage": "images/107_2.dir_angle.2020-07-20T230424.492053.png",
+    "normImage": "images/107_2.dir_norm.2020-07-20T230424.492106.png"
   },
   "rdImage": {
     "completed": false,
@@ -94,11 +94,11 @@
           },
           {
             "x": 36.5,
-            "y": 299.5
+            "y": 295.5
           },
           {
-            "x": 44.5,
-            "y": 307.5
+            "x": 47.5,
+            "y": 300.5
           },
           {
             "x": 59.5,
@@ -209,12 +209,12 @@
             "y": 33.5
           },
           {
-            "x": 188.5,
-            "y": 13.5
+            "x": 187.5,
+            "y": 10.5
           },
           {
-            "x": 170.5,
-            "y": 8.5
+            "x": 169.5,
+            "y": 4.5
           },
           {
             "x": 146.5,
