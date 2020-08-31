@@ -1,6 +1,7 @@
 {
   "fingerId": "11",
   "image": "images/11_3.png",
+  "normImage": "images/11_3.norm.png",
   "editImage": "images/11_3.edit.2020-04-17T160625.490885.png",
   "binImage": {
     "completed": true,
@@ -223,6 +224,7 @@
   "singular": {
     "completed": false,
     "cores": [],
+    "doubleCores": [],
     "deltas": []
   },
   "minutiae": {
