@@ -12,10 +12,6 @@
     "angleImage": "images/100_8.dir_angle.2020-09-02T114752.956576.png",
     "normImage": "images/100_8.dir_norm.2020-09-02T114752.956597.png"
   },
-  "rdImage": {
-    "completed": false,
-    "image": ""
-  },
   "imageSize": {
     "width": 328,
     "height": 364
