@@ -5,19 +5,19 @@
   "editImage": "images/34_8.edit.png",
   "binImage": {
     "completed": false,
-    "image": "images/34_8.bin.2020-04-25T041452.009263.png"
+    "image": "images/34_8.bin.2020-09-29T102440.068449.png"
   },
   "dirImage": {
     "completed": true,
-    "angleImage": "images/34_8.dir_angle.2020-09-12T141405.467515.png",
-    "normImage": "images/34_8.dir_norm.2020-09-12T141405.467557.png"
+    "angleImage": "images/34_8.dir_angle.2020-09-29T102440.068791.png",
+    "normImage": "images/34_8.dir_norm.2020-09-29T102440.068973.png"
   },
   "imageSize": {
     "width": 328,
     "height": 364
   },
   "global": {
-    "completed": false,
+    "completed": true,
     "fpClass": "right loop",
     "rotation": 1.7000000000006636,
     "fpQuality": "very low"

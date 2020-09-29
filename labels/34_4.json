@@ -2,22 +2,22 @@
   "fingerId": "34",
   "image": "images/34_4.png",
   "normImage": "images/34_4.norm.png",
-  "editImage": "images/34_4.edit.png",
+  "editImage": "images/34_4.edit.2020-09-29T102023.733240.png",
   "binImage": {
     "completed": false,
-    "image": "images/34_4.bin.2020-01-16T130018.812639.png"
+    "image": "images/34_4.bin.2020-09-29T102023.932630.png"
   },
   "dirImage": {
     "completed": true,
-    "angleImage": "images/34_4.dir_angle.2020-09-12T141404.124387.png",
-    "normImage": "images/34_4.dir_norm.2020-09-12T141404.124427.png"
+    "angleImage": "images/34_4.dir_angle.2020-09-29T102023.932927.png",
+    "normImage": "images/34_4.dir_norm.2020-09-29T102023.933106.png"
   },
   "imageSize": {
     "width": 328,
     "height": 364
   },
   "global": {
-    "completed": false,
+    "completed": true,
     "fpClass": "right loop",
     "rotation": -19.299999999999635,
     "fpQuality": "low"
@@ -139,52 +139,12 @@
         "type": "unrecoverable",
         "points": [
           {
-            "x": 233.5,
-            "y": 217.5
+            "x": 235.5,
+            "y": 249.5
           },
           {
-            "x": 227.5,
-            "y": 214.5
-          },
-          {
-            "x": 219.5,
-            "y": 208.5
-          },
-          {
-            "x": 212.5,
-            "y": 204.5
-          },
-          {
-            "x": 205.5,
-            "y": 203.5
-          },
-          {
-            "x": 205.5,
-            "y": 212.5
-          },
-          {
-            "x": 207.5,
-            "y": 219.5
-          },
-          {
-            "x": 212.5,
-            "y": 225.5
-          },
-          {
-            "x": 218.5,
-            "y": 234.5
-          },
-          {
-            "x": 227.5,
-            "y": 243.5
-          },
-          {
-            "x": 230.5,
-            "y": 250.5
-          },
-          {
-            "x": 238.5,
-            "y": 260.5
+            "x": 237.5,
+            "y": 262.5
           },
           {
             "x": 246.5,
@@ -195,32 +155,8 @@
             "y": 261.5
           },
           {
-            "x": 253.5,
-            "y": 253.5
-          },
-          {
-            "x": 255.5,
-            "y": 246.5
-          },
-          {
-            "x": 255.5,
-            "y": 236.5
-          },
-          {
-            "x": 256.5,
-            "y": 227.5
-          },
-          {
-            "x": 255.5,
-            "y": 221.5
-          },
-          {
-            "x": 246.5,
-            "y": 218.5
-          },
-          {
-            "x": 240.5,
-            "y": 217.5
+            "x": 247.5,
+            "y": 248.5
           }
         ]
       }
