@@ -5,12 +5,12 @@
   "editImage": "images/34_6.edit.2019-12-29T051401.018186.png",
   "binImage": {
     "completed": false,
-    "image": "images/34_6.bin.2020-09-29T101703.126434.png"
+    "image": "images/34_6.bin.2020-10-16T010744.034838.png"
   },
   "dirImage": {
     "completed": true,
-    "angleImage": "images/34_6.dir_angle.2020-09-29T101703.126760.png",
-    "normImage": "images/34_6.dir_norm.2020-09-29T101703.126955.png"
+    "angleImage": "images/34_6.dir_angle.2020-10-16T010744.035269.png",
+    "normImage": "images/34_6.dir_norm.2020-10-16T010744.035535.png"
   },
   "imageSize": {
     "width": 328,
