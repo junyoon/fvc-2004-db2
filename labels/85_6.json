@@ -5,31 +5,31 @@
   "editImage": "images/85_6.edit.png",
   "binImage": {
     "completed": false,
-    "image": ""
+    "image": "images/85_6.bin.2020-10-20T034847.537816.png"
   },
   "dirImage": {
     "completed": true,
-    "angleImage": "images/85_6.dir_angle.2020-09-12T141647.890820.png",
-    "normImage": "images/85_6.dir_norm.2020-09-12T141647.890858.png"
+    "angleImage": "images/85_6.dir_angle.2020-10-20T034847.538176.png",
+    "normImage": "images/85_6.dir_norm.2020-10-20T034847.538406.png"
   },
   "imageSize": {
     "width": 328,
     "height": 364
   },
   "global": {
-    "completed": false,
+    "completed": true,
     "fpClass": "unknown",
-    "rotation": -18.399999999999622,
+    "rotation": -12.855895662539979,
     "fpQuality": "low"
   },
   "bbox": {
     "center": {
-      "x": 216.15593755760386,
-      "y": 158.1368154383019
+      "x": 207.5113118643959,
+      "y": 163.52012465109058
     },
-    "width": 231.13679957378858,
-    "height": 358.26496722531607,
-    "degree": -18.399999999999636
+    "width": 228.30051828646347,
+    "height": 353.2378345820417,
+    "degree": -12.855895662539979
   },
   "regions": {
     "completed": true,
@@ -63,11 +63,11 @@
           },
           {
             "x": 227.5,
-            "y": 329.5
+            "y": 332.5
           },
           {
-            "x": 214.5,
-            "y": 334.5
+            "x": 215.5,
+            "y": 336.5
           },
           {
             "x": 202.5,
@@ -86,16 +86,12 @@
             "y": 284.5
           },
           {
-            "x": 148.5,
-            "y": 265.5
+            "x": 147.5,
+            "y": 267.5
           },
           {
-            "x": 144.5,
-            "y": 253.5
-          },
-          {
-            "x": 142.5,
-            "y": 247.5
+            "x": 136.5,
+            "y": 258.5
           },
           {
             "x": 125.5,
@@ -128,10 +124,6 @@
           {
             "x": 84.5,
             "y": 41.5
-          },
-          {
-            "x": 96.5,
-            "y": 23.5
           },
           {
             "x": 97.5,

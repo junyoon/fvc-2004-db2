@@ -17,7 +17,7 @@
     "height": 300
   },
   "global": {
-    "completed": false,
+    "completed": true,
     "fpClass": "right loop",
     "rotation": 0.0,
     "fpQuality": "very low"
@@ -240,7 +240,7 @@
         ]
       },
       {
-        "type": "unrecoverable",
+        "type": "scar",
         "points": [
           {
             "x": 189.5,
