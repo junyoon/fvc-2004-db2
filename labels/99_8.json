@@ -20,7 +20,11 @@
     "completed": false,
     "fpClass": "tent arch",
     "rotation": -5.6999999999994415,
-    "fpQuality": "very low"
+    "fpQuality": "very low",
+    "fpImpressionType": "live plain",
+    "fpCaptureTechnology": "optical",
+    "fpCaptureDevice": "Digital Persona - U.are.U 4000",
+    "fpBackground": "gray trapezoid on white"
   },
   "bbox": {
     "center": {

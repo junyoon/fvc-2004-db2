@@ -20,7 +20,11 @@
     "completed": false,
     "fpClass": "right loop",
     "rotation": -9.488136348565945,
-    "fpQuality": "very high"
+    "fpQuality": "very high",
+    "fpImpressionType": "live plain",
+    "fpCaptureTechnology": "optical",
+    "fpCaptureDevice": "Digital Persona - U.are.U 4000",
+    "fpBackground": "gray trapezoid on white"
   },
   "bbox": {
     "center": {

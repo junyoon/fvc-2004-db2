@@ -20,7 +20,11 @@
     "completed": false,
     "fpClass": "unknown",
     "rotation": 3.000000000000682,
-    "fpQuality": "low"
+    "fpQuality": "low",
+    "fpImpressionType": "live plain",
+    "fpCaptureTechnology": "capacitive",
+    "fpCaptureDevice": "Precise Biometrics - 100 SC",
+    "fpBackground": "gray"
   },
   "bbox": {
     "center": {

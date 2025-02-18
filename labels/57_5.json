@@ -20,7 +20,11 @@
     "completed": false,
     "fpClass": "whorl",
     "rotation": -24.6410790700304,
-    "fpQuality": "medium"
+    "fpQuality": "medium",
+    "fpImpressionType": "live plain",
+    "fpCaptureTechnology": "optical",
+    "fpCaptureDevice": "Digital Persona - U.are.U 4000",
+    "fpBackground": "gray trapezoid on white"
   },
   "bbox": {
     "center": {

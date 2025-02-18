@@ -20,7 +20,11 @@
     "completed": false,
     "fpClass": "whorl",
     "rotation": 0.0,
-    "fpQuality": "medium"
+    "fpQuality": "medium",
+    "fpImpressionType": "live plain",
+    "fpCaptureTechnology": "capacitive",
+    "fpCaptureDevice": "Precise Biometrics - 100 SC",
+    "fpBackground": "gray"
   },
   "bbox": {
     "center": {

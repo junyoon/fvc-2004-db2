@@ -20,7 +20,11 @@
     "completed": false,
     "fpClass": "right loop",
     "rotation": 1.1000000000006551,
-    "fpQuality": "high"
+    "fpQuality": "high",
+    "fpImpressionType": "live plain",
+    "fpCaptureTechnology": "capacitive",
+    "fpCaptureDevice": "Precise Biometrics - 100 SC",
+    "fpBackground": "gray"
   },
   "bbox": {
     "center": {
